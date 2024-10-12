@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "99655930652",
+    "project_id": "demoinviration",
+    "storage_bucket": "demoinviration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99655930652:android:beef2ae7950da42cbce0d9",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXjD8KgWxoR089w6rG7yW5ZGogsj010tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99655930652:android:edad8c5a45bd0fe4bce0d9",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXjD8KgWxoR089w6rG7yW5ZGogsj010tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
